@@ -3,7 +3,7 @@
 
 int main(){
    
-   // Your code goes here
+   printf("%d",75);
     
     return 0;
 }
