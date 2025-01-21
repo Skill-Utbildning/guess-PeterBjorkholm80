@@ -1,7 +1,7 @@
 echo "Running tests..."
 echo
 
-output=$(./main.out)
+output=$(./main)
 
 expected_output="75"
 
